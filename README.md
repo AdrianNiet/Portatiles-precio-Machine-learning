@@ -12,7 +12,9 @@ Mejorar en mi capacidad de hacer Feature Engineering y así poder analizar y mod
 
 ###
 
-En el archivo [submission](https://github.com/AdrianNiet/Portatiles-precio-Machine-learning/blob/main/Precio%20portatiles/Notebooks/submission.ipynb)
+En el archivo [submission](https://github.com/AdrianNiet/Portatiles-precio-Machine-learning/blob/main/Precio%20portatiles/Notebooks/submission.ipynb) encontraras pruebas que hice para un primer modelo.
+
+En el archivo [submission Final](https://github.com/AdrianNiet/Portatiles-precio-Machine-learning/blob/main/Precio%20portatiles/Notebooks/submission%20Final.ipynb) encontraras el archivo final que use para mi competición, donde tengo el mejor resultado que he podido sacar.
 
 ### Enlace a la competición:
 
