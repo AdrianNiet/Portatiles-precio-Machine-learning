@@ -4,11 +4,15 @@
 
 ### Resumen
 
-En esta competi he tenido que crear un modelo de Machine Learning y entrenarlo para poder predeccir los precios de los portatiles segun sus componentes.
+En esta competi he tenido que crear un modelo de Machine Learning y entrenarlo para poder predecir los precios de los portatiles segun sus componentes.
 
 ### Objetivos
 
 Mejorar en mi capacidad de hacer Feature Engineering y así poder analizar y modificar los datos para obtener un modelo que sea lo mas preciso posible.
+
+###
+
+En el archivo [submission](Precio portatiles/Notebooks/submission.ipynb)
 
 ### Enlace a la competición:
 
